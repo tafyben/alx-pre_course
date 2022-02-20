@@ -1,1 +1,1 @@
-**Created the second directory**
+**Created the second directory.**
